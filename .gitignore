@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+
+# Ignorar configuración local
+appsettings.Development.json
