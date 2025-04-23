@@ -9,7 +9,6 @@ Este proyecto es una API RESTful construida con .NET 8 para el manejo de autenti
 - ASP.NET Core 8
 - Entity Framework Core
 - Swagger para documentación
-- Docker para despliegue
 - SQL Server (para conexión a base de datos)
 
 ---
