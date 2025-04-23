@@ -16,9 +16,9 @@ Este proyecto es una API RESTful construida con .NET 8 para el manejo de autenti
 
 ## ⚙️ Estructura del Proyecto
 
-![image](https://github.com/user-attachments/assets/5cdde2a8-3003-4dcd-a436-396d789a7185)
+![image](https://github.com/user-attachments/assets/11eee772-323e-4e4c-9eb8-ca81cd849198)
 
- 
+
 
 ## 🔗 Configuración de la conexión a la base de datos
 
