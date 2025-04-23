@@ -16,11 +16,8 @@ Este proyecto es una API RESTful construida con .NET 8 para el manejo de autenti
 
 ## ⚙️ Estructura del Proyecto
 
-WebDvpAuth/
- ├── WebDvpApi/ # Capa de presentación (API) 
- ├── WebDvpLogic/ # Lógica de negocio 
- ├── WebDvpDatabase/ # Acceso a datos 
- └── Dockerfile # Para contenerizar la API
+![image](https://github.com/user-attachments/assets/5cdde2a8-3003-4dcd-a436-396d789a7185)
+
  
 
 ## 🔗 Configuración de la conexión a la base de datos
