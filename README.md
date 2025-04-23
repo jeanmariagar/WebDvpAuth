@@ -28,9 +28,7 @@ En el archivo `appsettings.json`, se usa la siguiente cadena de conexión:
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=CalculadoraDB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
-
-
-
+```
 
 ⚠️ Notas importantes
 
