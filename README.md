@@ -38,7 +38,7 @@ La advertencia sobre "DataProtection Keys" es normal. Para entornos productivos,
 
 ✅ Estado
 
-✔️ API funcional con tokens JWT✔️ Corre en Docker correctamente✔️ Swagger funcionando localmente en modo desarrollo
+✔️ API funcional con tokens JWT✔️ Swagger funcionando localmente en modo desarrollo
 
 
 📌 Autora
