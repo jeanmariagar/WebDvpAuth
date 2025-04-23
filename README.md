@@ -1,6 +1,6 @@
 # WebDvpAuth API (.NET 8 + Docker)
 
-Este proyecto es una API RESTful construida con .NET 8 para el manejo de autenticación de usuarios (registro, login, y lectura), y contiene varias capas separadas: `WebDvpDatabase`, `WebDvpLogic` y `WebDvpApi`. El despliegue se realiza mediante Docker.
+Este proyecto es una API RESTful construida con .NET 8 para el manejo de autenticación de usuarios (registro, login, y lectura), y contiene varias capas separadas: `WebDvpDatabase`, `WebDvpLogic` y `WebDvpApi`. 
 
 ---
 
