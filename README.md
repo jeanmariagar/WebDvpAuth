@@ -44,6 +44,7 @@ La advertencia sobre "DataProtection Keys" es normal. Para entornos productivos,
 ![image](https://github.com/user-attachments/assets/58b3f400-98c3-4a12-a6dc-f4653ef84d2c)
 
 datos
+
 ![image](https://github.com/user-attachments/assets/126a4f4c-367f-4c95-b513-0787c38527fd)
 
 
@@ -57,9 +58,11 @@ registro en tabla usuario
 
 
 Login
+
 ![image](https://github.com/user-attachments/assets/438b12b2-c03f-42a0-9ead-246cf1249851)
 
 datos
+
 ![image](https://github.com/user-attachments/assets/4d324e97-6881-4cb4-b947-addc66090fcd)
 
 response
@@ -68,6 +71,7 @@ response
 
 
 Perfil
+
 ![image](https://github.com/user-attachments/assets/e9ef59f3-2a72-4802-9ee3-1c6d0f8bd380)
 
 Candado Autorizar. Uso clave de token que obtuve de Login
